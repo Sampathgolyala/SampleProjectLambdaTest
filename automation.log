@@ -1,0 +1,56 @@
+06/14/2021 05:36:51 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 05:36:51 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 05:36:52 PM - BasePage - ERROR: Cannot click on the element with locator Customer Service and locator_type text
+06/14/2021 06:15:35 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:15:35 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 06:15:37 PM - BasePage - INFO: Clicked on element with locator Customer Service and locator_type text
+06/14/2021 06:19:04 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:19:04 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 06:19:06 PM - BasePage - INFO: Clicked on element with locator Customer Service and locator_type text
+06/14/2021 06:19:56 PM - BasePage - ERROR: Element did not appear on the web page
+06/14/2021 06:19:59 PM - BasePage - ERROR: element not found using text and Sign in securely
+06/14/2021 06:19:59 PM - BasePage - ERROR: Cannot click on the element with locator Sign in securely and locator_type text
+06/14/2021 06:19:59 PM - TestStatus - ERROR: ### VERIFICATION FAILED : Amazon Sign-In is verified  successfully
+06/14/2021 06:19:59 PM - BasePage - INFO: ### Screenshot saved to directory C:\Users\golyals\PycharmProjects\SampleProjectLambdaTest\screenshots/Amazon Sign-In is verified  successfully1623674999.png
+06/14/2021 06:19:59 PM - TestStatus - ERROR: verify the title of the page ### TEST FAILED
+06/14/2021 06:22:30 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:22:30 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 06:22:32 PM - BasePage - INFO: Clicked on element with locator Customer Service and locator_type text
+06/14/2021 06:23:19 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:23:19 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 06:23:21 PM - BasePage - INFO: Clicked on element with locator Customer Service and locator_type text
+06/14/2021 06:24:13 PM - BasePage - ERROR: Element did not appear on the web page
+06/14/2021 06:24:16 PM - BasePage - ERROR: element not found using text and  Electronics
+06/14/2021 06:24:16 PM - BasePage - ERROR: Cannot click on the element with locator  Electronics and locator_type text
+06/14/2021 06:24:16 PM - TestStatus - ERROR: ### VERIFICATION FAILED : Electronics Store: Buy Electronics products Online at Best Prices in India at Amazon.in is verified  successfully
+06/14/2021 06:24:16 PM - BasePage - INFO: ### Screenshot saved to directory C:\Users\golyals\PycharmProjects\SampleProjectLambdaTest\screenshots/Electronics Store: Buy Electronics products Online at Best Prices in India at Amazon.in is verified  successfully1623675256.png
+06/14/2021 06:24:16 PM - TestStatus - ERROR: verify the title of the page ### TEST FAILED
+06/14/2021 06:24:31 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:24:31 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 06:24:33 PM - BasePage - INFO: Clicked on element with locator Customer Service and locator_type text
+06/14/2021 06:25:23 PM - BasePage - ERROR: Element did not appear on the web page
+06/14/2021 06:25:51 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:25:53 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 06:25:55 PM - BasePage - INFO: Clicked on element with locator Customer Service and locator_type text
+06/14/2021 06:25:55 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:25:55 PM - BasePage - INFO: Found element using by_type text and locator Computers
+06/14/2021 06:25:58 PM - BasePage - INFO: Clicked on element with locator Computers and locator_type text
+06/14/2021 06:25:58 PM - TestStatus - ERROR: ### VERIFICATION FAILED : Computers & Accessories: Buy Computers & Accessories Online at Low Prices in India - Amazon.in is verified  successfully
+06/14/2021 06:25:58 PM - BasePage - INFO: ### Screenshot saved to directory C:\Users\golyals\PycharmProjects\SampleProjectLambdaTest\screenshots/Computers & Accessories: Buy Computers & Accessories Online at Low Prices in India - Amazon.in is verified  successfully1623675358.png
+06/14/2021 06:25:58 PM - TestStatus - ERROR: verify the title of the page ### TEST FAILED
+06/14/2021 06:27:22 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:27:22 PM - BasePage - INFO: Found element using by_type text and locator Customer Service
+06/14/2021 06:27:24 PM - BasePage - INFO: Clicked on element with locator Customer Service and locator_type text
+06/14/2021 06:27:24 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:27:24 PM - BasePage - INFO: Found element using by_type text and locator Computers
+06/14/2021 06:27:27 PM - BasePage - INFO: Clicked on element with locator Computers and locator_type text
+06/14/2021 06:27:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Computers & Accessories: Buy Computers & Accessories Online at Low Prices in India - Amazon.in is verified  successfully
+06/14/2021 06:27:27 PM - TestStatus - INFO: verify the title of the page ### TEST SUCCESSFUL
+06/14/2021 06:33:20 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:33:21 PM - BasePage - INFO: Found element using by_type text and locator New Releases
+06/14/2021 06:33:22 PM - BasePage - INFO: Clicked on element with locator New Releases and locator_type text
+06/14/2021 06:33:23 PM - BasePage - INFO: Element appeared on the web page
+06/14/2021 06:33:23 PM - BasePage - INFO: Found element using by_type text and locator Most Wished For
+06/14/2021 06:33:25 PM - BasePage - INFO: Clicked on element with locator Most Wished For and locator_type text
+06/14/2021 06:33:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL : Amazon.in Most Wished For: Items that customers have added to Wish Lists and registries most often on Amazon is verified  successfully
+06/14/2021 06:33:25 PM - TestStatus - INFO: verify the title of the page ### TEST SUCCESSFUL
